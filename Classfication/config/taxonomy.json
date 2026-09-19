@@ -1,0 +1,20 @@
+{
+  "categories": [
+    "Handbags",
+    "Apparel",
+    "Footwear",
+    "Accessories",
+    "Jewelry",
+    "Fragrance",
+    "Watches"
+  ],
+  "subcategories": {
+    "Handbags": ["Totes", "Clutches", "Crossbody", "Shoulder Bags"],
+    "Apparel": ["Dresses", "Jackets", "Tops", "Bottoms"],
+    "Footwear": ["Heels", "Sneakers", "Boots", "Sandals"],
+    "Accessories": ["Belts", "Scarves", "Hats", "Sunglasses"],
+    "Jewelry": ["Necklaces", "Earrings", "Bracelets", "Rings"],
+    "Fragrance": ["Perfume", "Cologne"],
+    "Watches": ["Dress Watches", "Sport Watches"]
+  }
+}
